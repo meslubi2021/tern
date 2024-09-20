@@ -10,4 +10,4 @@ prospector>=1.1
 bandit~=1.6
 
 # For commit message linting in circleci we need GitPython
-GitPython~=2.1
+GitPython~=3.1
